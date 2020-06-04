@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 204704721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4375fab673f9aa92a4115e64c1bbf4cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e26f430c1ffb25b344d8d7cb0d5c5b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Prefab/ItemPicBookGroup.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/bg_pic_book_bottom_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/bg_pic_book_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/bg_item_floor_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/mask_pic_book_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/itempicbook_prefab

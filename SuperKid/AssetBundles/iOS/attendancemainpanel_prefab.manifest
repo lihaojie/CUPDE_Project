@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2357484958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5981ae0b609e448880c9ce78d8d48406
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfb6ebe885934c2aa5ffc6dbe5c79954
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8da919f8d3f7f4800a171100620ffc68, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/AttendanceMainPanel.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/prefab
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_back_png

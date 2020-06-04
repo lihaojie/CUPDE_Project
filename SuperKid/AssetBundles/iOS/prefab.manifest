@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 1554821034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 122a007a46969a3517e60dd2508215e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea95c7f26da57f33348181a144c85abd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 789938f6edb3af443b44aa522f346c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898e0fcc813e04e3fba07516f0384d3c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Prefab/ListView.prefab
+- Assets/Art/Prefab/BookDetalPic.prefab
+- Assets/Art/Prefab/Meteors.prefab
+- Assets/Art/Prefab/BtnBack.prefab
+- Assets/Art/Prefab/Meteor.prefab
+- Assets/Art/Prefab/UIStars.prefab
+- Assets/Art/Prefab/ListViewFamily.prefab
+- Assets/Art/Prefab/IntegralDescripBg.prefab
+- Assets/Art/Prefab/Star.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_back_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/bg_pic_book_bottom_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/bg_pic_book_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/mask_pic_book_png

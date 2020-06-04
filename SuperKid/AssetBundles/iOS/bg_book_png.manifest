@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1073388366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2ebd4abb7966d729a756905dbcdb91d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/BookDetail/bg_book.png
+Dependencies: []

@@ -1,0 +1,90 @@
+
+Lion_animation.png
+size: 1177,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes Close
+  rotate: false
+  xy: 698, 3
+  size: 250, 37
+  orig: 252, 39
+  offset: 1, 1
+  index: -1
+Eyes open
+  rotate: true
+  xy: 1014, 4
+  size: 236, 105
+  orig: 238, 107
+  offset: 1, 1
+  index: -1
+Lhand
+  rotate: true
+  xy: 569, 27
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+LiuHai
+  rotate: false
+  xy: 1014, 242
+  size: 108, 119
+  orig: 112, 121
+  offset: 2, 1
+  index: -1
+Lleg
+  rotate: true
+  xy: 844, 50
+  size: 79, 104
+  orig: 79, 104
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 1121, 156
+  size: 84, 54
+  orig: 86, 56
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: true
+  xy: 698, 42
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1121, 10
+  size: 144, 39
+  orig: 144, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1014, 363
+  size: 197, 148
+  orig: 197, 148
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 569, 131
+  size: 443, 429
+  orig: 456, 448
+  offset: 10, 17
+  index: -1
+hair
+  rotate: false
+  xy: 2, 2
+  size: 565, 558
+  orig: 567, 563
+  offset: 1, 4
+  index: -1
+mouse
+  rotate: true
+  xy: 1124, 299
+  size: 62, 41
+  orig: 64, 44
+  offset: 1, 1
+  index: -1

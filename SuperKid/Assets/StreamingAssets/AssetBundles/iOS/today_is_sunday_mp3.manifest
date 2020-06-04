@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1448875362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73c93529a5bbba6f9f57ca4e94c0c9e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClips/Today_is_sunday.mp3
+Dependencies: []

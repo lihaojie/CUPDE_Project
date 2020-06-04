@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1371023072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 405811c18ea6ded50126347f6d4b0cd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/AttendanceMain/Share/ic_share_video.png
+Dependencies: []

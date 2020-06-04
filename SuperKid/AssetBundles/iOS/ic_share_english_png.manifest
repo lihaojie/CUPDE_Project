@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2849635438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28de81d33ee46cc4d3336928db1788b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/AttendanceMain/Share/ic_share_english.png
+Dependencies: []

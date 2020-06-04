@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3068464752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8949f7c64c6be530967d28282fdf2ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/Setting/Family/toggle_transfer_sel.png
+Dependencies: []

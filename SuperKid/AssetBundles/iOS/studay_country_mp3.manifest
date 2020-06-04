@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1823199982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fee6af0dc0b6b798be6ad0f95f5d2ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClips/Studay_country.mp3
+Dependencies: []

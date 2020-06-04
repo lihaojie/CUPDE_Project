@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1466691661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b82b3ff20e0cd0cce4f4948823198fe3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClips/Welcome.mp3
+Dependencies: []

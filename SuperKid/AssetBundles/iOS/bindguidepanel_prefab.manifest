@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2347810916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bde93a59b602080eee9f78953e7405a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e802dcc2445a10aa16dc2e8dafee3880
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b129d2957197f49c4b63ec42ef57a8b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 789938f6edb3af443b44aa522f346c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/BindGuidePanel.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/prefab
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_back_png

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2924234055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52b6dd02075fb909ef0e65eba901841e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc513e4beb60a0fe85458c10084b6c1e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 319f9e47bbd7c4f0a9e51be5952659fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/CollectGiftBoxPanel.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/text_received_succee_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/text_baby_exclusive_gift_png

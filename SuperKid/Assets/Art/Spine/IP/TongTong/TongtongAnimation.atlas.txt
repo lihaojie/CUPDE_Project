@@ -1,0 +1,90 @@
+
+TongtongAnimation.png
+size: 652,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HairRope1
+  rotate: false
+  xy: 388, 120
+  size: 62, 216
+  orig: 62, 216
+  offset: 0, 0
+  index: -1
+HairRope2
+  rotate: false
+  xy: 338, 88
+  size: 46, 248
+  orig: 46, 248
+  offset: 0, 0
+  index: -1
+TongtongDress
+  rotate: false
+  xy: 454, 214
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+TongtongEyesClosed
+  rotate: false
+  xy: 456, 20
+  size: 148, 31
+  orig: 148, 32
+  offset: 0, 1
+  index: -1
+TongtongEyesOpen
+  rotate: false
+  xy: 456, 55
+  size: 149, 66
+  orig: 150, 68
+  offset: 0, 1
+  index: -1
+TongtongHead
+  rotate: false
+  xy: 4, 14
+  size: 330, 322
+  orig: 330, 322
+  offset: 0, 0
+  index: -1
+TongtongL_leg
+  rotate: true
+  xy: 550, 139
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
+TongtongLhand
+  rotate: false
+  xy: 578, 206
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+TongtongR_leg
+  rotate: true
+  xy: 550, 172
+  size: 30, 95
+  orig: 30, 95
+  offset: 0, 0
+  index: -1
+TongtongRhand
+  rotate: false
+  xy: 388, 4
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+TongtongUpperHalf
+  rotate: false
+  xy: 454, 125
+  size: 92, 85
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+Yupu
+  rotate: false
+  xy: 338, 8
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1

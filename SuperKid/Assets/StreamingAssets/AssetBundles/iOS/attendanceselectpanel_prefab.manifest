@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2340883405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1aa95e133378b452b7cfaf70440d4b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f40f535880ec4c51bc7c8e08b2b738bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dde8704aa58541b798fd7cb1a4f32c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/AttendanceSelectPanel.prefab
+Dependencies: []

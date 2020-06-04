@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3644218953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 966d7fd9135bef94c0d1e83b80271a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/BookMonth/ic_clip.png
+Dependencies: []

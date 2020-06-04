@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 451870312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 318c8321710b9292bc4ae54caee2817f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/BookDayList/ic_music.png
+- Assets/Art/UIImage/BookDayList/bg_button.png
+- Assets/Art/UIImage/BookDayList/bg_day_item.png
+- Assets/Art/UIImage/BookDayList/ic_video.png
+- Assets/Art/UIImage/BookDayList/ic_day_item.png
+- Assets/Art/UIImage/BookDayList/img_rest.png
+- Assets/Art/UIImage/BookDayList/ic_lock.png
+- Assets/Art/UIImage/BookDayList/img_punch.png
+- Assets/Art/UIImage/BookDayList/bg_small_rect.png
+- Assets/Art/UIImage/BookDayList/ic_pic_book.png
+- Assets/Art/UIImage/BookDayList/ic_target.png
+- Assets/Art/UIImage/BookDayList/ic_arrow_down.png
+- Assets/Art/UIImage/BookDayList/bg_title.png
+Dependencies: []

@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 1098885395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f45ad01919b69b435aedda13ec27f5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a48fb741cf9ab44a24b0e6ef167fa6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd05a4105ff4a4741bb271af16d246e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd98a6107eeea48dfb28aad7ec45712a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c3d3d10e0b6645df81c26e82f20186a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5ec4a638c8b4e82add41e9359d2b69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d060ae8818dc34d99b89a5a4bb848067, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49c0c35bdb7524e92a7e1d1d3089cacd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dda8b67c146a64c5faf55f986750a704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898e0fcc813e04e3fba07516f0384d3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ea5538dc88964d5596a38922396c54a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67abe46e970ab4d57943638f5b70647b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0470678e620894234af9809d09ff9a85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbc46c8e2de3b49c89bd9cd6b6cf92bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf802ae774ae402e9d5e18da685fddd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/SettingPanel.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/prefab
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_back_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_code_nor_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_code_sel_png
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/btn_add_photo_png

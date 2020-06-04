@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2936260846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f12be720a4c1800ea3c8451d8443a31e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f518c6d67a35dc0a2f72db3ee884b534
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ca66c10955c44c3b94b408c84ac4287, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd799f3ab5ea4d0f905d2eaf01cb8a28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0f57b3fe00c40df82155f78af1ce424, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Prefab/ItemInfoFamilySettingPrefab.prefab
+Dependencies:
+- /Users/lihaojie/Desktop/PUHEGEDU/SuperKid/AssetBundles/iOS/toggle_transfer_sel_png

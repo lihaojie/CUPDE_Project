@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2979935358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55c2c1b9abbe43d723dd0f5d14771983
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/DeviceStatus/ic_deviceBatteryLow.png
+Dependencies: []

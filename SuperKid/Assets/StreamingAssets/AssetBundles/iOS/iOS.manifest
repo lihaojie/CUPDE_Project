@@ -1,0 +1,740 @@
+ManifestFileVersion: 0
+CRC: 1311036295
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audioclips
+      Dependencies: {}
+    Info_1:
+      Name: prefab
+      Dependencies:
+        Dependency_0: btn_back_png
+        Dependency_1: bg_pic_book_bottom_png
+        Dependency_2: bg_pic_book_png
+        Dependency_3: mask_pic_book_png
+    Info_2:
+      Name: bookdaylist
+      Dependencies: {}
+    Info_3:
+      Name: bookmonth
+      Dependencies: {}
+    Info_4:
+      Name: btn_back_png
+      Dependencies: {}
+    Info_5:
+      Name: bg_item_video_png
+      Dependencies: {}
+    Info_6:
+      Name: ic_pic_book_png
+      Dependencies: {}
+    Info_7:
+      Name: bg_audio_png
+      Dependencies: {}
+    Info_8:
+      Name: ic_clip_png
+      Dependencies: {}
+    Info_9:
+      Name: ic_close_png
+      Dependencies: {}
+    Info_10:
+      Name: mask_audio_png
+      Dependencies: {}
+    Info_11:
+      Name: bg_audoi_bottom_png
+      Dependencies: {}
+    Info_12:
+      Name: bg_pic_book_bottom_png
+      Dependencies: {}
+    Info_13:
+      Name: ic_orange_png
+      Dependencies: {}
+    Info_14:
+      Name: cover_bg_png
+      Dependencies: {}
+    Info_15:
+      Name: bg_item_audio_png
+      Dependencies: {}
+    Info_16:
+      Name: bg_detail_title_png
+      Dependencies: {}
+    Info_17:
+      Name: bg_png
+      Dependencies: {}
+    Info_18:
+      Name: ic_rect_title_png
+      Dependencies: {}
+    Info_19:
+      Name: en_nodata_png
+      Dependencies: {}
+    Info_20:
+      Name: ic_picbook_png
+      Dependencies: {}
+    Info_21:
+      Name: ic_read_book_png
+      Dependencies: {}
+    Info_22:
+      Name: ic_book_item_bg_png
+      Dependencies: {}
+    Info_23:
+      Name: ic_video_png
+      Dependencies: {}
+    Info_24:
+      Name: ic_watch_tv_png
+      Dependencies: {}
+    Info_25:
+      Name: bg_pic_book_png
+      Dependencies: {}
+    Info_26:
+      Name: bg_item_floor_png
+      Dependencies: {}
+    Info_27:
+      Name: bg_en_png
+      Dependencies: {}
+    Info_28:
+      Name: ic_play_game_png
+      Dependencies: {}
+    Info_29:
+      Name: mask_pic_book_png
+      Dependencies: {}
+    Info_30:
+      Name: ic_audio_png
+      Dependencies: {}
+    Info_31:
+      Name: ic_learn_read_png
+      Dependencies: {}
+    Info_32:
+      Name: bg_small_rect_png
+      Dependencies: {}
+    Info_33:
+      Name: bg_btn_png
+      Dependencies: {}
+    Info_34:
+      Name: ic_listen_story_png
+      Dependencies: {}
+    Info_35:
+      Name: bg_book_png
+      Dependencies: {}
+    Info_36:
+      Name: cn_nodata_png
+      Dependencies: {}
+    Info_37:
+      Name: ic_rect_png
+      Dependencies: {}
+    Info_38:
+      Name: bg_xxqg_png
+      Dependencies: {}
+    Info_39:
+      Name: ic_listen_idiom_png
+      Dependencies: {}
+    Info_40:
+      Name: ic_lock_png
+      Dependencies: {}
+    Info_41:
+      Name: bg_rect_png
+      Dependencies: {}
+    Info_42:
+      Name: cover_corner_png
+      Dependencies: {}
+    Info_43:
+      Name: bg_pic_png
+      Dependencies: {}
+    Info_44:
+      Name: ic_listen_music_png
+      Dependencies: {}
+    Info_45:
+      Name: mask_video_png
+      Dependencies: {}
+    Info_46:
+      Name: item_mask_png
+      Dependencies: {}
+    Info_47:
+      Name: ic_audio_toggle_png
+      Dependencies: {}
+    Info_48:
+      Name: unlock_book_mp3
+      Dependencies: {}
+    Info_49:
+      Name: unlock_day_mp3
+      Dependencies: {}
+    Info_50:
+      Name: cn_bg_music_mp3
+      Dependencies: {}
+    Info_51:
+      Name: en_bg_music_mp3
+      Dependencies: {}
+    Info_52:
+      Name: shitong_ch_mp3
+      Dependencies: {}
+    Info_53:
+      Name: xxqg_bg_music_mp3
+      Dependencies: {}
+    Info_54:
+      Name: dinosaur_en_mp3
+      Dependencies: {}
+    Info_55:
+      Name: button_audio_mp3
+      Dependencies: {}
+    Info_56:
+      Name: studay_country_mp3
+      Dependencies: {}
+    Info_57:
+      Name: today_is_sunday_mp3
+      Dependencies: {}
+    Info_58:
+      Name: bookdaypanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: bg_small_rect_png
+        Dependency_3: ic_rect_png
+        Dependency_4: btn_attendance_nor_png
+    Info_59:
+      Name: bookdaylistpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: bookdaylist
+        Dependency_2: bookmonth
+        Dependency_3: btn_back_png
+        Dependency_4: ic_clip_png
+        Dependency_5: ic_lock_png
+        Dependency_6: bg_rect_png
+        Dependency_7: item_mask_png
+    Info_60:
+      Name: itemaudio_prefab
+      Dependencies:
+        Dependency_0: mask_audio_png
+        Dependency_1: bg_audoi_bottom_png
+        Dependency_2: bg_item_audio_png
+        Dependency_3: ic_audio_toggle_png
+    Info_61:
+      Name: targetdetailpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_62:
+      Name: itemtypeaction_prefab
+      Dependencies:
+        Dependency_0: ic_book_item_bg_png
+        Dependency_1: ic_listen_idiom_png
+    Info_63:
+      Name: messagemaskpanel_prefab
+      Dependencies:
+        Dependency_0: ic_orange_png
+        Dependency_1: bg_png
+    Info_64:
+      Name: bookdetailpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_pic_book_png
+        Dependency_3: bg_pic_book_bottom_png
+        Dependency_4: bg_detail_title_png
+        Dependency_5: ic_rect_title_png
+        Dependency_6: bg_pic_book_png
+        Dependency_7: mask_pic_book_png
+        Dependency_8: bg_btn_png
+        Dependency_9: bg_book_png
+        Dependency_10: bg_pic_png
+    Info_65:
+      Name: itemcanvas_prefab
+      Dependencies:
+        Dependency_0: bookdaylist
+        Dependency_1: bg_small_rect_png
+        Dependency_2: ic_lock_png
+    Info_66:
+      Name: itemcanvaslist_prefab
+      Dependencies:
+        Dependency_0: bookdaylist
+        Dependency_1: bg_small_rect_png
+        Dependency_2: ic_lock_png
+        Dependency_3: itemcanvas_prefab
+    Info_67:
+      Name: tongtongprefab_prefab
+      Dependencies:
+        Dependency_0: bookdaylist
+        Dependency_1: bg_small_rect_png
+        Dependency_2: ic_lock_png
+        Dependency_3: itemcanvaslist_prefab
+    Info_68:
+      Name: dinoprefab_prefab
+      Dependencies:
+        Dependency_0: bookdaylist
+        Dependency_1: bg_small_rect_png
+        Dependency_2: ic_lock_png
+        Dependency_3: itemcanvaslist_prefab
+    Info_69:
+      Name: maskpanel_prefab
+      Dependencies: {}
+    Info_70:
+      Name: lionprefab_prefab
+      Dependencies:
+        Dependency_0: bookdaylist
+        Dependency_1: bg_small_rect_png
+        Dependency_2: ic_lock_png
+        Dependency_3: itemcanvaslist_prefab
+    Info_71:
+      Name: itemvideo_prefab
+      Dependencies:
+        Dependency_0: bg_item_video_png
+        Dependency_1: mask_video_png
+    Info_72:
+      Name: listitempanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: bg_audio_png
+        Dependency_3: ic_picbook_png
+        Dependency_4: ic_video_png
+        Dependency_5: ic_audio_png
+        Dependency_6: cn_nodata_png
+    Info_73:
+      Name: itempicbook_prefab
+      Dependencies:
+        Dependency_0: bg_pic_book_bottom_png
+        Dependency_1: bg_pic_book_png
+        Dependency_2: mask_pic_book_png
+    Info_74:
+      Name: itempicbookgroup_prefab
+      Dependencies:
+        Dependency_0: bg_pic_book_bottom_png
+        Dependency_1: bg_pic_book_png
+        Dependency_2: bg_item_floor_png
+        Dependency_3: mask_pic_book_png
+        Dependency_4: itempicbook_prefab
+    Info_75:
+      Name: mainpanel_prefab
+      Dependencies: {}
+    Info_76:
+      Name: btn_code_nor_png
+      Dependencies: {}
+    Info_77:
+      Name: btn_code_sel_png
+      Dependencies: {}
+    Info_78:
+      Name: btn_show_pwd_png
+      Dependencies: {}
+    Info_79:
+      Name: btn_hide_pwd_png
+      Dependencies: {}
+    Info_80:
+      Name: loginpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_nor_png
+        Dependency_3: btn_hide_pwd_png
+    Info_81:
+      Name: ic_unsavepwd_png
+      Dependencies: {}
+    Info_82:
+      Name: ic_savepwd_png
+      Dependencies: {}
+    Info_83:
+      Name: bindguidepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_84:
+      Name: bindconfirmbootpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_binddetermine_png
+    Info_85:
+      Name: bindcheckwifipanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_nor_png
+    Info_86:
+      Name: bindwifimessagepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_show_pwd_png
+        Dependency_3: ic_savepwd_png
+        Dependency_4: ic_binddetermine_png
+    Info_87:
+      Name: bg_sex_sel_png
+      Dependencies: {}
+    Info_88:
+      Name: bg_sex_nor_png
+      Dependencies: {}
+    Info_89:
+      Name: babyinfopanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_sel_png
+        Dependency_3: bg_sex_nor_png
+    Info_90:
+      Name: datepickerpanel_prefab
+      Dependencies: {}
+    Info_91:
+      Name: settingaddaddressprefab_prefab
+      Dependencies: {}
+    Info_92:
+      Name: settingpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_nor_png
+        Dependency_3: btn_code_sel_png
+        Dependency_4: btn_add_photo_png
+    Info_93:
+      Name: settingaddressitemprefab_prefab
+      Dependencies: {}
+    Info_94:
+      Name: choosephotopanel_prefab
+      Dependencies: {}
+    Info_95:
+      Name: userinfopanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_sel_png
+        Dependency_3: bg_sex_nor_png
+    Info_96:
+      Name: ic_binddetermine_png
+      Dependencies: {}
+    Info_97:
+      Name: addresspickerpanel_prefab
+      Dependencies: {}
+    Info_98:
+      Name: btn_add_photo_png
+      Dependencies: {}
+    Info_99:
+      Name: dailytaskpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_dailyshare_png
+        Dependency_3: ic_dailytasksel_png
+        Dependency_4: ic_dailyitemgoldsharesel_png
+        Dependency_5: ic_dailyclocksbtn_png
+    Info_100:
+      Name: ic_dailyshare_png
+      Dependencies: {}
+    Info_101:
+      Name: ic_dailytasksel_png
+      Dependencies: {}
+    Info_102:
+      Name: ic_dailytask_png
+      Dependencies: {}
+    Info_103:
+      Name: ic_dailyitemgoldsharesel_png
+      Dependencies: {}
+    Info_104:
+      Name: ic_dailysharesel_png
+      Dependencies: {}
+    Info_105:
+      Name: tippanel_prefab
+      Dependencies: {}
+    Info_106:
+      Name: itemfamily_prefab
+      Dependencies: {}
+    Info_107:
+      Name: itemdailymedalpanel_prefab
+      Dependencies:
+        Dependency_0: ic_dailyitemreceive_png
+    Info_108:
+      Name: integraldescrippanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: itemintegralpanel_prefab
+    Info_109:
+      Name: medalsharepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_110:
+      Name: ic_dailyitemreceive_png
+      Dependencies: {}
+    Info_111:
+      Name: ic_dailyitemunreceive_png
+      Dependencies: {}
+    Info_112:
+      Name: itemintegralpanel_prefab
+      Dependencies: {}
+    Info_113:
+      Name: ic_dailyclocksbtn_png
+      Dependencies: {}
+    Info_114:
+      Name: devicestatuspanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_devicewificonnect_png
+        Dependency_3: ic_devicebatteryhigh_png
+    Info_115:
+      Name: ic_devicewificonnect_png
+      Dependencies: {}
+    Info_116:
+      Name: ic_devicewifiunconnect_png
+      Dependencies: {}
+    Info_117:
+      Name: ic_devicebatterymid_png
+      Dependencies: {}
+    Info_118:
+      Name: ic_devicebatterylow_png
+      Dependencies: {}
+    Info_119:
+      Name: ic_devicebatteryhigh_png
+      Dependencies: {}
+    Info_120:
+      Name: iteminfouserprefab_prefab
+      Dependencies:
+        Dependency_0: ic_baby_boy_png
+    Info_121:
+      Name: attendancemainpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_122:
+      Name: historicalphotowallpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: itemhistoryphotowallpanel_prefab
+    Info_123:
+      Name: workswallpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_124:
+      Name: ic_baby_girl_png
+      Dependencies: {}
+    Info_125:
+      Name: ic_baby_boy_png
+      Dependencies: {}
+    Info_126:
+      Name: familyaddpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_sel_png
+        Dependency_3: bg_sex_sel_png
+        Dependency_4: bg_sex_nor_png
+    Info_127:
+      Name: addresseditpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_128:
+      Name: itemfamilyprefab_prefab
+      Dependencies: {}
+    Info_129:
+      Name: itemhistoryphotowallpanel_prefab
+      Dependencies: {}
+    Info_130:
+      Name: attendanceinstructionspanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_binddetermine_png
+    Info_131:
+      Name: toggle_transfer_sel_png
+      Dependencies: {}
+    Info_132:
+      Name: toggle_subtract_sel_png
+      Dependencies: {}
+    Info_133:
+      Name: familysettingpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+    Info_134:
+      Name: iteminfofamilysettingprefab_prefab
+      Dependencies:
+        Dependency_0: toggle_transfer_sel_png
+    Info_135:
+      Name: medalanimationpanel_prefab
+      Dependencies: {}
+    Info_136:
+      Name: audio_pause_record_png
+      Dependencies: {}
+    Info_137:
+      Name: ic_audiio_pause_png
+      Dependencies: {}
+    Info_138:
+      Name: audio_record_png
+      Dependencies: {}
+    Info_139:
+      Name: audio_recording_png
+      Dependencies: {}
+    Info_140:
+      Name: ic_audio_playing_png
+      Dependencies: {}
+    Info_141:
+      Name: binddevicepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: btn_code_nor_png
+    Info_142:
+      Name: updatetippanel_prefab
+      Dependencies: {}
+    Info_143:
+      Name: giftlistpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_dailyitemreceive_png
+        Dependency_3: itemgiftlistpanel_prefab
+    Info_144:
+      Name: mainanimation_prefab
+      Dependencies: {}
+    Info_145:
+      Name: mainguidepanel_prefab
+      Dependencies: {}
+    Info_146:
+      Name: addresslistpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_147:
+      Name: integraldetailpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_148:
+      Name: itemexchangelistpanel_prefab
+      Dependencies: {}
+    Info_149:
+      Name: itemintegralgetlistpanel_prefab
+      Dependencies: {}
+    Info_150:
+      Name: ic_head_grand_mother_png
+      Dependencies: {}
+    Info_151:
+      Name: ic_head_mother_png
+      Dependencies: {}
+    Info_152:
+      Name: ic_head_father_png
+      Dependencies: {}
+    Info_153:
+      Name: ic_head_brother_png
+      Dependencies: {}
+    Info_154:
+      Name: ic_head_girl_png
+      Dependencies: {}
+    Info_155:
+      Name: ic_head_grand_father_png
+      Dependencies: {}
+    Info_156:
+      Name: ic_head_boy_png
+      Dependencies: {}
+    Info_157:
+      Name: ic_head_sister_png
+      Dependencies: {}
+    Info_158:
+      Name: createorderpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_dailyitemreceive_png
+    Info_159:
+      Name: attendance_main_add_png
+      Dependencies: {}
+    Info_160:
+      Name: text_received_succee_png
+      Dependencies: {}
+    Info_161:
+      Name: text_exchange_succee_png
+      Dependencies: {}
+    Info_162:
+      Name: btn_attendance_nor_png
+      Dependencies: {}
+    Info_163:
+      Name: ic_dailyitemdontreceive_png
+      Dependencies: {}
+    Info_164:
+      Name: btn_attendance_sel_png
+      Dependencies: {}
+    Info_165:
+      Name: text_baby_exclusive_gift_png
+      Dependencies: {}
+    Info_166:
+      Name: text_chinese_learning_plan_png
+      Dependencies: {}
+    Info_167:
+      Name: text_english_learning_plan_png
+      Dependencies: {}
+    Info_168:
+      Name: collectgiftboxpanel_prefab
+      Dependencies:
+        Dependency_0: text_received_succee_png
+        Dependency_1: text_baby_exclusive_gift_png
+    Info_169:
+      Name: connectdevicepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_170:
+      Name: ic_share_video_png
+      Dependencies: {}
+    Info_171:
+      Name: attendanceaddpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_audiio_pause_png
+        Dependency_3: attendance_main_add_png
+    Info_172:
+      Name: attendancesharepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: ic_share_chinese_png
+    Info_173:
+      Name: attendanceaudiorecordpanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+        Dependency_2: audio_record_png
+    Info_174:
+      Name: workswallitem_prefab
+      Dependencies:
+        Dependency_0: ic_audiio_pause_png
+        Dependency_1: ic_works_wall_audio_start_png
+    Info_175:
+      Name: ic_works_wall_audio_start_png
+      Dependencies: {}
+    Info_176:
+      Name: ic_works_wall_audio_pause_png
+      Dependencies: {}
+    Info_177:
+      Name: playgamepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_178:
+      Name: attendancerulepanel_prefab
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: btn_back_png
+    Info_179:
+      Name: welcome_mp3
+      Dependencies: {}
+    Info_180:
+      Name: itemgiftlistpanel_prefab
+      Dependencies:
+        Dependency_0: ic_dailyitemreceive_png
+    Info_181:
+      Name: photobrowserpanel_prefab
+      Dependencies: {}
+    Info_182:
+      Name: attendanceselectpanel_prefab
+      Dependencies: {}
+    Info_183:
+      Name: ic_share_english_png
+      Dependencies: {}
+    Info_184:
+      Name: ic_share_chinese_png
+      Dependencies: {}
+    Info_185:
+      Name: ic_share_qiangguo_png
+      Dependencies: {}
+    Info_186:
+      Name: ic_share_audio_png
+      Dependencies: {}

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2809265081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af4a9b0bb92eb0cff9c8d3020882cf05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/DailyTask/ic_dailyTaskSel.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2706504968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7613ca010cd176195c71ae4bed882a49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIImage/BookMonth/bg_month.png
+- Assets/Art/UIImage/BookMonth/ic_rope.png
+Dependencies: []

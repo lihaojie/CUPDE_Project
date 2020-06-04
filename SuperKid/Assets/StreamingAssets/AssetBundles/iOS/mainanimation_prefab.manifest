@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3507690066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66915d17ecaae697e9d61d663d0515ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c1e75f2f0df564c297742148d11c5d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e3e95a05e4c9774397eeeb7bdee8ccb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 341c21923d42741e48b2454dc86cdf93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Prefab/MainAnimation.prefab
+Dependencies: []
